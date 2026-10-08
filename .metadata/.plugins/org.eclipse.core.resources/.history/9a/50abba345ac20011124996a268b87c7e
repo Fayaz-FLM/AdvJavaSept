@@ -1,0 +1,13 @@
+package com.spring;
+
+public class Address {
+	
+	String street;
+	
+	int pincode;
+	
+	String country;
+	
+	
+
+}

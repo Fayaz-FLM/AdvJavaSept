@@ -1,0 +1,11 @@
+package com.spring;
+
+public class Department {
+	
+	int deptid;
+	
+	String deptName;
+	
+	
+
+}

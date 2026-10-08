@@ -1,0 +1,1441 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JBoss Tools Aggregated Feed</title>
+  <id>https://tools.jboss.org</id>
+  <updated>2025-05-30T18:17:43Z</updated>
+  <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Build an AI agent to automate TechDocs in Red Hat Developer Hub</title>
+    <updated>2025-05-30T07:00:00Z</updated>
+    <id>8e24df6a-14cc-4aaf-90a2-6a15bec5a05f</id>
+    <link href="https://developers.redhat.com/articles/2025/05/30/build-ai-agent-automate-techdocs-red-hat-developer-hub" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Boost Red Hat Device Edge observability with OpenTelemetry</title>
+    <updated>2025-05-29T07:00:00Z</updated>
+    <id>916d2a1d-da78-449b-8eec-5a29b4d19685</id>
+    <link href="https://developers.redhat.com/articles/2025/05/29/boost-red-hat-device-edge-observability-opentelemetry" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to embed containers on image mode for RHEL</title>
+    <updated>2025-05-29T07:00:00Z</updated>
+    <id>c1e79a47-7429-41d9-8ae7-c66557daeafd</id>
+    <link href="https://developers.redhat.com/articles/2025/05/29/how-embed-containers-image-mode-rhel" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Implement AI safeguards with Node.js and Llama Stack</title>
+    <updated>2025-05-28T07:00:00Z</updated>
+    <id>e05f5547-a277-419c-b21d-16199c703e7d</id>
+    <link href="https://developers.redhat.com/articles/2025/05/28/implement-ai-safeguards-nodejs-and-llama-stack" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to simplify your multi-repo workflow with Podman</title>
+    <updated>2025-05-28T07:00:00Z</updated>
+    <id>3e73ba20-b27f-4d9b-8fac-0ccf9da76bdc</id>
+    <link href="https://developers.redhat.com/articles/2025/05/28/how-simplify-your-multi-repo-workflow-podman" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.23 - Named datasources for Hibernate Reactive, OIDC bearer step up authentication</title>
+    <updated>2025-05-28T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-23-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-23-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.23 - Named datasources for Hibernate Reactive, OIDC bearer step up authentication</title>
+    <updated>2025-05-28T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-23-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-23-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 26.2.5 released</title>
+    <updated>2025-05-28T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/05/keycloak-2625-released</id>
+    <link href="https://www.keycloak.org/2025/05/keycloak-2625-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Boost GPU efficiency in Kubernetes with NVIDIA Multi-Instance GPU</title>
+    <updated>2025-05-27T13:30:00Z</updated>
+    <id>00b7e7c2-8b4d-4f83-a064-b6e9d8a398ce</id>
+    <link href="https://developers.redhat.com/articles/2025/05/27/boost-gpu-efficiency-kubernetes-nvidia-mig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to integrate Senao SX904 into an OpenShift cluster</title>
+    <updated>2025-05-27T07:00:00Z</updated>
+    <id>15950e6e-a7cf-4e15-9d7c-3c61737362f8</id>
+    <link href="https://developers.redhat.com/articles/2025/05/27/how-integrate-senao-sx904-openshift-cluster" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to start configuration as code for an Ansible instance</title>
+    <updated>2025-05-27T07:00:00Z</updated>
+    <id>08f53911-21df-4fe1-9a62-d259ae05cecc</id>
+    <link href="https://developers.redhat.com/articles/2025/05/27/how-start-configuration-code-ansible-instance" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to simulate network latency in local containers</title>
+    <updated>2025-05-26T07:00:00Z</updated>
+    <id>aebad5ad-f656-428a-9dd1-21306b025572</id>
+    <link href="https://developers.redhat.com/articles/2025/05/26/how-simulate-network-latency-local-containers" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Standard Token Exchange is now officially supported in Keycloak 26.2</title>
+    <updated>2025-05-26T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/05/standard-token-exchange-kc-26-2</id>
+    <link href="https://www.keycloak.org/2025/05/standard-token-exchange-kc-26-2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus MCP Server: The First Java Server SDK to Support Streamable HTTP!</title>
+    <updated>2025-05-23T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/streamable-http-mcp/</id>
+    <link href="https://quarkus.io/blog/streamable-http-mcp/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus MCP Server: The First Java Server SDK to Support Streamable HTTP!</title>
+    <updated>2025-05-23T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/streamable-http-mcp/</id>
+    <link href="https://quarkus.io/blog/streamable-http-mcp/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Improve GPU utilization with Kueue in OpenShift AI</title>
+    <updated>2025-05-22T07:00:00Z</updated>
+    <id>1b82f2b2-b9d1-4ec8-bb64-c1eac7f9275b</id>
+    <link href="https://developers.redhat.com/articles/2025/05/22/improve-gpu-utilization-kueue-openshift-ai" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Use Quarkus MCP client to access secure MCP HTTP servers</title>
+    <updated>2025-05-21T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/secure-mcp-client/</id>
+    <link href="https://quarkus.io/blog/secure-mcp-client/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Use Quarkus MCP client to access secure MCP HTTP servers</title>
+    <updated>2025-05-21T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/secure-mcp-client/</id>
+    <link href="https://quarkus.io/blog/secure-mcp-client/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.20.1 released - LTS maintenance release</title>
+    <updated>2025-05-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-20-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-20-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.15.5 released - LTS maintenance release</title>
+    <updated>2025-05-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-5-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.20.1 released - LTS maintenance release</title>
+    <updated>2025-05-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-20-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-20-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.15.5 released - LTS maintenance release</title>
+    <updated>2025-05-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-5-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.15 released!</title>
+    <updated>2025-05-19T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-15</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-15" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Hitachi Keycloak case study published</title>
+    <updated>2025-05-19T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/05/hitachi-case-study</id>
+    <link href="https://www.keycloak.org/2025/05/hitachi-case-study" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Secure email delivery with XOAUTH2</title>
+    <updated>2025-05-18T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/05/send-mails-xoauth-26-2</id>
+    <link href="https://www.keycloak.org/2025/05/send-mails-xoauth-26-2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.22.3 - Maintenance release</title>
+    <updated>2025-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-22-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-22-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly 36.0.1 is released!</title>
+    <updated>2025-05-15T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2025/05/15/WildFly3601-Released/</id>
+    <link href="https://wildfly.org//news/2025/05/15/WildFly3601-Released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.22.3 - Maintenance release</title>
+    <updated>2025-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-22-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-22-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 5 released!</title>
+    <updated>2025-05-15T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-5-released</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-5-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: OpenTalk Keycloak case study published</title>
+    <updated>2025-05-15T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/05/opentalk-case-study</id>
+    <link href="https://www.keycloak.org/2025/05/opentalk-case-study" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Achieving Fine-Grained Admin Permissions with Keycloak 26.2</title>
+    <updated>2025-05-14T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/05/fgap-kc-26-2</id>
+    <link href="https://www.keycloak.org/2025/05/fgap-kc-26-2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #56 - May</title>
+    <updated>2025-05-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-56/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-56/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #56 - May</title>
+    <updated>2025-05-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-56/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-56/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Agentic AI with Quarkus - part 3</title>
+    <updated>2025-05-08T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/agentic-ai-with-quarkus-p3/</id>
+    <link href="https://quarkus.io/blog/agentic-ai-with-quarkus-p3/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Agentic AI with Quarkus - part 3</title>
+    <updated>2025-05-08T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/agentic-ai-with-quarkus-p3/</id>
+    <link href="https://quarkus.io/blog/agentic-ai-with-quarkus-p3/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 26.2.4 released</title>
+    <updated>2025-05-08T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/05/keycloak-2624-released</id>
+    <link href="https://www.keycloak.org/2025/05/keycloak-2624-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 8 released!</title>
+    <updated>2025-05-07T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-8-released</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-8-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.22.2 - Maintenance release</title>
+    <updated>2025-05-07T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-22-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-22-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.22.2 - Maintenance release</title>
+    <updated>2025-05-07T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-22-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-22-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: The internals (and a few externals) of Quarkus test classloading have changed</title>
+    <updated>2025-04-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/test-classloading-rewrite/</id>
+    <link href="https://quarkus.io/blog/test-classloading-rewrite/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.22 - Compose Dev Services, improved test class loading infrastructure...</title>
+    <updated>2025-04-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-22-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-22-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Getting ready for secure MCP with Quarkus MCP Server</title>
+    <updated>2025-04-28T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/secure-mcp-sse-server/</id>
+    <link href="https://quarkus.io/blog/secure-mcp-sse-server/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.21.4 - Maintenance release</title>
+    <updated>2025-04-24T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-21-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-21-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.21.3 - Maintenance release</title>
+    <updated>2025-04-16T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-21-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-21-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #55 - April</title>
+    <updated>2025-04-11T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-55/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-55/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Optimizing Java for the Cloud-Native Era with Quarkus</title>
+    <updated>2025-04-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/mmaler-blogpost-1-intro/</id>
+    <link href="https://quarkus.io/blog/mmaler-blogpost-1-intro/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.21.2 - Maintenance release</title>
+    <updated>2025-04-09T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-21-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-21-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.21.1 - Maintenance release</title>
+    <updated>2025-04-02T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-21-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-21-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.20 - new LTS version</title>
+    <updated>2025-03-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.21 - TLS Registry support for MongoDB Client</title>
+    <updated>2025-03-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-21-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-21-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Movie similarity search using vector databases</title>
+    <updated>2025-03-24T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/movie-similarity-search-using-vector-databases/</id>
+    <link href="https://quarkus.io/blog/movie-similarity-search-using-vector-databases/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.19.4 - Maintenance release</title>
+    <updated>2025-03-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-19-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-19-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Sender-constraining access tokens with Quarkus OIDC</title>
+    <updated>2025-03-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
+    <link href="https://quarkus.io/blog/sender-constraining-tokens/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: How Orange leverages Quarkus for seamless access to Telco network capabilities</title>
+    <updated>2025-03-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/</id>
+    <link href="https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.15.4 released - LTS maintenance release</title>
+    <updated>2025-03-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus & Red Hat's evolving middleware strategy</title>
+    <updated>2025-03-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-redhat-strategy/</id>
+    <link href="https://quarkus.io/blog/quarkus-redhat-strategy/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Secure Agentic AI with Quarkus and Google Gemini</title>
+    <updated>2025-03-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/gemini-personal-assistant/</id>
+    <link href="https://quarkus.io/blog/gemini-personal-assistant/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Running SQLite in Pure Java with Quarkus</title>
+    <updated>2025-03-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
+    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.19.3 - Maintenance release</title>
+    <updated>2025-03-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-19-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-19-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #54 - March</title>
+    <updated>2025-03-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-54/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-54/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.19.2 - Maintenance release</title>
+    <updated>2025-03-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-19-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-19-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: CVE fixes - February 2025</title>
+    <updated>2025-02-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/cve-fixes-feb-2025/</id>
+    <link href="https://quarkus.io/blog/cve-fixes-feb-2025/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.19 - UBI 9 images, Micrometer to OpenTelemetry bridge, JEP 483 new AOT cache...</title>
+    <updated>2025-02-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-19-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-19-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Agentic AI with Quarkus - part 2</title>
+    <updated>2025-02-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/agentic-ai-with-quarkus-p2/</id>
+    <link href="https://quarkus.io/blog/agentic-ai-with-quarkus-p2/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.18.4 - Maintenance release</title>
+    <updated>2025-02-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-18-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-18-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: The Quarkus Edge: How Real Customers Achieve Speed, Performance, and Agility</title>
+    <updated>2025-02-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/idc-customer-case-studies/</id>
+    <link href="https://quarkus.io/blog/idc-customer-case-studies/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Agentic AI with Quarkus - part 1</title>
+    <updated>2025-02-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/agentic-ai-with-quarkus/</id>
+    <link href="https://quarkus.io/blog/agentic-ai-with-quarkus/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Using LangChain4j to analyze PDF documents</title>
+    <updated>2025-02-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/using-langchain4j-to-analyze-pdf-documents/</id>
+    <link href="https://quarkus.io/blog/using-langchain4j-to-analyze-pdf-documents/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.18.3 - Maintenance release</title>
+    <updated>2025-02-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-18-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-18-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #53 - February</title>
+    <updated>2025-02-11T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-53/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-53/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.18.2 - Maintenance release</title>
+    <updated>2025-02-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-18-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-18-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.18 - Micrometer for WebSockets Next, Security WebAuthn based on WebAuthn4J, Kubernetes Client 7...</title>
+    <updated>2025-01-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-18-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-18-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Introducing Model Context Protocol servers project</title>
+    <updated>2025-01-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/introducing-mcp-servers/</id>
+    <link href="https://quarkus.io/blog/introducing-mcp-servers/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus LTS - New Release Cadence Explained</title>
+    <updated>2025-01-28T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/lts-cadence/</id>
+    <link href="https://quarkus.io/blog/lts-cadence/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17.8 - Maintenance release</title>
+    <updated>2025-01-22T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-8-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-8-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.15.3 released - LTS maintenance release</title>
+    <updated>2025-01-21T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17.7 - Maintenance release</title>
+    <updated>2025-01-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-7-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-7-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #52 - January</title>
+    <updated>2025-01-14T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-52/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-52/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Implementing a MCP server in Quarkus</title>
+    <updated>2025-01-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/mcp-server/</id>
+    <link href="https://quarkus.io/blog/mcp-server/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Using the Model Context Protocol with Quarkus+LangChain4j</title>
+    <updated>2025-01-08T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-langchain4j-mcp/</id>
+    <link href="https://quarkus.io/blog/quarkus-langchain4j-mcp/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.29.1.Final for Eclipse 2023-09</title>
+    <updated>2024-06-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.29.1.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.29.1.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.29.0.Final for Eclipse 2023-09</title>
+    <updated>2023-11-02T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.29.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.29.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools for Eclipse 2023-06M2</title>
+    <updated>2023-06-05T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - June, 1st 2023</title>
+    <updated>2023-06-01T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-06-01.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-06-01.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - May, 15 2023</title>
+    <updated>2023-05-18T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-05-18.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-05-18.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - April, 20 2023</title>
+    <updated>2023-04-20T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-04-20.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-04-20.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.27.0.Final for Eclipse 2023-03</title>
+    <updated>2023-04-07T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.27.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.27.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - April, 06 2023</title>
+    <updated>2023-04-06T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-04-06.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-04-06.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - March, 23 2023</title>
+    <updated>2023-03-23T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-03-23.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-03-23.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools for Eclipse 2023-03M3</title>
+    <updated>2023-03-10T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.27.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.27.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 10th March 2023</title>
+    <updated>2023-03-09T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-03-09.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-03-09.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 24th February 2023</title>
+    <updated>2023-02-24T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-02-24.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-02-24.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 26 January 2023</title>
+    <updated>2023-02-08T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-02-08.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-02-08.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 26 January 2023</title>
+    <updated>2023-01-26T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-01-26.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-01-26.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - December, 29th 2022</title>
+    <updated>2022-12-29T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-12-29.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-12-29.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.26.0.Final for Eclipse 2022-12</title>
+    <updated>2022-12-20T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.26.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.26.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - December, 15th 2022</title>
+    <updated>2022-12-15T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-12-15.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-12-15.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - December, 1st 2022</title>
+    <updated>2022-12-01T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-12-01.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-12-01.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools for Eclipse 2022-12M2</title>
+    <updated>2022-11-23T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.26.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.26.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - November, 18 2022</title>
+    <updated>2022-11-18T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-11-18.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-11-18.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: Deprecating and removing components from JBoss Tools</title>
+    <updated>2022-11-09T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/2022-11-09-component-lifetime-policy.html</id>
+    <link href="https://tools.jboss.org/blog/2022-11-09-component-lifetime-policy.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - November, 4 2022</title>
+    <updated>2022-11-04T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-11-04.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-11-04.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 20 October 2022</title>
+    <updated>2022-10-20T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-10-20.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-10-20.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.25.0.Final for Eclipse 2022-09</title>
+    <updated>2022-10-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.25.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.25.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 07 October 2022</title>
+    <updated>2022-10-07T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-10-07.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-10-07.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools for Eclipse 2022-09RC1</title>
+    <updated>2022-09-29T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.25.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.25.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 22 September 2022</title>
+    <updated>2022-09-22T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-09-22.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-09-22.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 08 September 2022</title>
+    <updated>2022-09-08T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-09-08.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-09-08.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 25 August 2022</title>
+    <updated>2022-08-25T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-08-25.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-08-25.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 11 August 2022</title>
+    <updated>2022-08-11T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-08-11.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-08-11.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 28th 2022</title>
+    <updated>2022-07-28T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-07-28.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-07-28.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 15 July 2022</title>
+    <updated>2022-07-14T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-07-14.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-07-14.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools for Eclipse 2022-06</title>
+    <updated>2022-07-04T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.24.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.24.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - June 30th 2022</title>
+    <updated>2022-06-30T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-06-30.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-06-30.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - June 16nd 2022</title>
+    <updated>2022-06-16T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-06-16.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-06-16.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools for Eclipse 2022-06M2</title>
+    <updated>2022-06-14T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.24.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.24.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - June 2nd 2022</title>
+    <updated>2022-06-02T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-06-02.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-06-02.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - May 7th 2022</title>
+    <updated>2022-05-07T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-05-07.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-05-07.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 22 April 2022</title>
+    <updated>2022-04-22T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-04-22.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-04-22.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools for Eclipse 2022-03</title>
+    <updated>2022-04-15T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.23.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.23.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 07 April 2022</title>
+    <updated>2022-04-07T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-04-07.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-04-07.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 25 March 2022</title>
+    <updated>2022-03-25T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-03-25.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-03-25.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools for Eclipse 2022-03RC1</title>
+    <updated>2022-03-24T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.23.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.23.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 11 March 2022</title>
+    <updated>2022-03-11T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-03-11.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-03-11.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - February 25th 2022</title>
+    <updated>2022-02-25T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-02-25.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-02-25.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - February 10th 2022</title>
+    <updated>2022-02-10T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-02-10.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-02-10.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09</title>
+    <updated>2022-02-08T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.3.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.3.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 27th 2022</title>
+    <updated>2022-01-27T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-27.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-27.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.21.2.AM1 for Eclipse 2021-09</title>
+    <updated>2021-12-22T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.21.2.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.21.2.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 20 December 2021</title>
+    <updated>2021-12-20T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-12-20.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-12-20.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-44228</title>
+    <updated>2021-12-16T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.1.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.1.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 2 December 2021</title>
+    <updated>2021-12-02T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-12-02.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-12-02.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 18 November 2021</title>
+    <updated>2021-11-18T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-11-18.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-11-18.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 04 November 2021</title>
+    <updated>2021-11-04T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-11-04.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-11-04.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 21 October 2021</title>
+    <updated>2021-10-21T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-10-21.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-10-21.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 08 October 2021</title>
+    <updated>2021-10-08T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-10-08.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-10-08.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09</title>
+    <updated>2021-10-05T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.0.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.0.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 23 September 2021</title>
+    <updated>2021-09-23T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-09-23.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-09-23.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 10 September 2021</title>
+    <updated>2021-09-10T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-09-10.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-09-10.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.21.0.AM1 for Eclipse 2021-09</title>
+    <updated>2021-09-07T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.21.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.21.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 27 August 2021</title>
+    <updated>2021-08-27T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-08-27.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-08-27.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 11 August 2021</title>
+    <updated>2021-08-11T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-08-11.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-08-11.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-03</title>
+    <updated>2021-07-16T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.19.1.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.19.1.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 14 July 2021</title>
+    <updated>2021-07-14T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-07-14.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-07-14.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 01 July 2021</title>
+    <updated>2021-07-01T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-07-01.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-07-01.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 18 June 2021</title>
+    <updated>2021-06-18T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-06-18.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-06-18.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.19.1.AM1 for Eclipse 2021-03</title>
+    <updated>2021-06-15T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.19.1.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.19.1.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 31 May 2021</title>
+    <updated>2021-05-31T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-05-31.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-05-31.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 26 April 2021</title>
+    <updated>2021-04-26T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-04-26.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-04-26.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-03</title>
+    <updated>2021-04-20T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.19.0.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.19.0.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 8 April 2021</title>
+    <updated>2021-04-08T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-04-08.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-04-08.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 25 March 2021</title>
+    <updated>2021-03-25T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-03-25.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-03-25.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.19.0.AM1 for Eclipse 2021-03</title>
+    <updated>2021-03-24T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.19.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.19.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 11 March 2021</title>
+    <updated>2021-03-11T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-03-11.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-03-11.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 25 February 2021</title>
+    <updated>2021-02-25T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-02-25.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-02-25.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 11 February 2021</title>
+    <updated>2021-02-11T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-02-11.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-02-11.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 28 January 2021</title>
+    <updated>2021-01-28T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-01-28.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-01-28.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2020-09</title>
+    <updated>2021-01-26T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.18.0.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.18.0.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss: 14 January 2021</title>
+    <updated>2021-01-14T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2021-01-14.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2021-01-14.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss: 25 December 2020</title>
+    <updated>2020-12-25T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-12-25.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-12-25.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.18.0.AM1 for Eclipse 2020-09</title>
+    <updated>2020-12-22T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.18.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.18.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 17 December 2020</title>
+    <updated>2020-12-17T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-12-17.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-12-17.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 16 September 2020</title>
+    <updated>2020-12-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-12-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-12-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This week in JBoss - 20th November 2020</title>
+    <updated>2020-11-20T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-11-20.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-11-20.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This week in JBoss - 6th November 2020</title>
+    <updated>2020-11-06T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-11-06.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-11-06.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This week in JBoss - 23rd October 2020</title>
+    <updated>2020-10-23T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-10-23.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-10-23.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2020-09</title>
+    <updated>2020-10-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.17.0.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.17.0.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This week in JBoss - 12th October 2020</title>
+    <updated>2020-10-12T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-10-12.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-10-12.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 30 September 2020</title>
+    <updated>2020-09-30T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-09-30.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-09-30.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 16 September 2020</title>
+    <updated>2020-09-16T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-09-16.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-09-16.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.17.0.AM1 for Eclipse 2020-09</title>
+    <updated>2020-09-15T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.17.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.17.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: JBoss Weekly Editorial 27 August 2020</title>
+    <updated>2020-08-27T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-08-27.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-08-27.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 13 August 2020</title>
+    <updated>2020-08-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-08-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-08-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 30th July 2020: No rest for the JBoss community!</title>
+    <updated>2020-07-30T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-07-30.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-07-30.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2020-06</title>
+    <updated>2020-07-21T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.16.0.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.16.0.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 9 July 2020: Over the (j)cliff!</title>
+    <updated>2020-07-09T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-07-09.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-07-09.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss: 26 June 2020</title>
+    <updated>2020-06-26T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-06-26.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-06-26.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.16.0.AM1 for Eclipse 2020-06</title>
+    <updated>2020-06-24T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.16.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.16.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - 11 June 2020</title>
+    <updated>2020-06-11T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-06-11.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-06-11.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: JBoss Weekly Editorial 29 May 2020</title>
+    <updated>2020-05-29T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-05-29.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-05-29.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: JBoss Weekly Editorial 14 May 2020</title>
+    <updated>2020-05-14T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-05-14.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-05-14.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss: 1 May 2020</title>
+    <updated>2020-05-01T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2020-05-01.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2020-05-01.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2020-03</title>
+    <updated>2020-04-28T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.15.0.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.15.0.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.15.0.AM1 for Eclipse 2020-03</title>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.15.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.15.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2019-12</title>
+    <updated>2020-03-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.14.0.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.14.0.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.14.0.AM1 for Eclipse 2019-12</title>
+    <updated>2020-01-28T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.14.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.14.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2019-09</title>
+    <updated>2019-11-05T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.13.0.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.13.0.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2019-06</title>
+    <updated>2019-07-08T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.12.0.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.12.0.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.12.0.AM1 for Eclipse 2019-06</title>
+    <updated>2019-06-12T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.12.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.12.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: Integration Tooling for Eclipse 2019-03</title>
+    <updated>2019-05-30T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/integration-stack-4.11.0.Final.html</id>
+    <link href="https://tools.jboss.org/blog/integration-stack-4.11.0.Final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: Quarkus</title>
+    <updated>2019-05-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/quarkus.html</id>
+    <link href="https://tools.jboss.org/blog/quarkus.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2019-03</title>
+    <updated>2019-04-01T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.11.0.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.11.0.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: Announcing IntelliJ OpenShift Connector</title>
+    <updated>2019-03-11T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/ij-openshift-connector.html</id>
+    <link href="https://tools.jboss.org/blog/ij-openshift-connector.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.11.0.AM1 for Eclipse 2018-12</title>
+    <updated>2019-02-26T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.11.0.am1.html</id>
+    <link href="https://tools.jboss.org/blog/4.11.0.am1.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: We are hiring</title>
+    <updated>2019-01-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/we-are-hiring - again.html</id>
+    <link href="https://tools.jboss.org/blog/we-are-hiring - again.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse 2018-09</title>
+    <updated>2018-10-08T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.9.0.html</id>
+    <link href="https://tools.jboss.org/blog/12.9.0.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.9.0.AM3 for Eclipse 2018-09 M2</title>
+    <updated>2018-09-11T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.9.0.am3.html</id>
+    <link href="https://tools.jboss.org/blog/4.9.0.am3.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.9.0.AM2 for Eclipse 2018-09 M2</title>
+    <updated>2018-08-21T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.9.0.am2.html</id>
+    <link href="https://tools.jboss.org/blog/4.9.0.am2.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: Integration Tooling for Eclipse Photon</title>
+    <updated>2018-08-09T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/integration-stack-4.6.0.Final.html</id>
+    <link href="https://tools.jboss.org/blog/integration-stack-4.6.0.Final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
+    <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
+    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

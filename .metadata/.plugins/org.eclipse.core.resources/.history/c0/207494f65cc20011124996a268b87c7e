@@ -1,0 +1,41 @@
+package com.spring;
+
+public class Department {
+	
+	int deptId;
+	
+	String deptName;
+	
+	public Department() {
+		
+	}
+
+	public Department(int deptid, String deptName) {
+		super();
+		this.deptId = deptid;
+		this.deptName = deptName;
+	}
+
+	public int getDeptid() {
+		return deptId;
+	}
+
+	public void setDeptid(int deptid) {
+		this.deptId = deptid;
+	}
+
+	public String getDeptName() {
+		return deptName;
+	}
+
+	public void setDeptName(String deptName) {
+		this.deptName = deptName;
+	}
+
+	@Override
+	public String toString() {
+		return "Department [deptid=" + deptId + ", deptName=" + deptName + "]";
+	}
+	
+
+}

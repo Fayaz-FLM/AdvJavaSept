@@ -1,0 +1,12 @@
+package com.spring;
+
+public class Student {
+	
+	int studentId;
+	
+	String name;
+	
+	int marks;
+
+	
+}

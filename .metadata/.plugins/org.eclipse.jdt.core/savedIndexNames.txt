@@ -1,0 +1,13 @@
+INDEX VERSION 1.134+D:\JFS-June2026\AdvJavaWorkspace\.metadata\.plugins\org.eclipse.jdt.core
+1640819673.index
+787984449.index
+2139831919.index
+972074428.index
+2484995788.index
+1175483460.index
+1012824954.index
+3690439307.index
+2685469716.index
+2993065078.index
+1865797976.index
+1469277728.index

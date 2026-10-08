@@ -9,6 +9,25 @@ public class Test {
 		
 		ApplicationContext container = new ClassPathXmlApplicationContext("beans.xml");
 		
+		Product product = container.getBean("product", Product.class);
+		
+		System.out.println(product);
+		
+	}
+
+	private static void users(ApplicationContext container) {
+		User user = container.getBean("user", User.class);
+		
+		System.out.println(user);
+	}
+
+	private static void employees(ApplicationContext container) {
+		Employee employee = container.getBean("emp" , Employee.class);
+		
+		System.out.println(employee);
+	}
+
+	private static void students(ApplicationContext container) {
 		Student student = container.getBean("st" , Student.class);
 		
 		System.out.println(student);
@@ -20,7 +39,6 @@ public class Test {
 		Student student3 = container.getBean("st3", Student.class);
 		
 		System.out.println(student3);
-		
 	}
 
 }

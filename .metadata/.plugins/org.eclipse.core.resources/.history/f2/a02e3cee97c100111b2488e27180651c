@@ -1,0 +1,16 @@
+package com.spring;
+
+public class Student {
+	
+	int studentId;
+	
+	String name;
+	
+	int marks;
+
+	@Override
+	public String toString() {
+		return "Student [studentId=" + studentId + ", name=" + name + ", marks=" + marks + "]";
+	}
+
+	

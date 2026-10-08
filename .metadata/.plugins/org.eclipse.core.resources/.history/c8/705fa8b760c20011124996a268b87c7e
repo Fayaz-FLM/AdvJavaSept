@@ -1,0 +1,17 @@
+package com.spring;
+
+public class Product {
+	
+	int productId;
+	
+	String productName;
+	
+	int price;
+	
+	public Product() {
+		
+	}
+	
+	
+
+}

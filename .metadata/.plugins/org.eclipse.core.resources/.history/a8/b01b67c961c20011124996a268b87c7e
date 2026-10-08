@@ -1,0 +1,42 @@
+package com.spring;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		ApplicationContext container = new ClassPathXmlApplicationContext("beans.xml");
+		
+		extracted(container);
+		
+	}
+
+	private static void extracted(ApplicationContext container) {
+		User user = container.getBean("user", User.class);
+		
+		System.out.println(user);
+	}
+
+	private static void employees(ApplicationContext container) {
+		Employee employee = container.getBean("emp" , Employee.class);
+		
+		System.out.println(employee);
+	}
+
+	private static void students(ApplicationContext container) {
+		Student student = container.getBean("st" , Student.class);
+		
+		System.out.println(student);
+		
+		Student student2 = container.getBean("st2", Student.class);
+		
+		System.out.println(student2);
+		
+		Student student3 = container.getBean("st3", Student.class);
+		
+		System.out.println(student3);
+	}
+
+}

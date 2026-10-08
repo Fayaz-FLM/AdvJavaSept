@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout resource="/SpringContext/src/main/resources/META-INF/beans.xml">
+ <TreeFormPage>
+  <Memento type="FileCDIBeans11">
+   <Memento collapsed="false" type="Cdi Beans"/>
+  </Memento>
+ </TreeFormPage>
+</Layout>

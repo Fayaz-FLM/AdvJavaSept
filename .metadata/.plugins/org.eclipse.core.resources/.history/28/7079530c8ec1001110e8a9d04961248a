@@ -1,0 +1,11 @@
+package com;
+
+public class Employee {
+	
+	private static Employee employee;
+	
+	private Employee(){
+		
+	}
+
+}
