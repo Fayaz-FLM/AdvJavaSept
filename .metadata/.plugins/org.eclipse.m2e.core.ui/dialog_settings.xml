@@ -48,6 +48,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringJDBC"/>
 			<item value="SpringContext"/>
 		</list>
 		<list key="projectNameTemplate">

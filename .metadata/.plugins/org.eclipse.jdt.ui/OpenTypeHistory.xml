@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=SpringJDBC/C:\/Users\/FRONTLINES MEDIA\/.m2\/repository\/org\/springframework\/spring-jdbc\/7.0.8\/spring-jdbc-7.0.8.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-jdbc=/=/maven.version=/7.0.8=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.jdbc.core(JdbcTemplate.class[JdbcTemplate" modifiers="33" timestamp="1781191421959"/>
+    <typeInfo handle="=SpringContext/C:\/Users\/FRONTLINES MEDIA\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.10.v20260205-0638\/jre\/lib\/jrt-fs.jar`java.sql=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/21\/docs\/api\/=/=/maven.pomderived=/true=/&lt;java.sql(DriverManager.class[DriverManager" modifiers="33" timestamp="1770254118000"/>
+    <typeInfo handle="=SpringJDBC/C:\/Users\/FRONTLINES MEDIA\/.m2\/repository\/org\/springframework\/spring-jdbc\/7.0.8\/spring-jdbc-7.0.8.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-jdbc=/=/maven.version=/7.0.8=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.jdbc.datasource(DriverManagerDataSource.class[DriverManagerDataSource" modifiers="33" timestamp="1781191421959"/>
+</typeInfoHistroy>
