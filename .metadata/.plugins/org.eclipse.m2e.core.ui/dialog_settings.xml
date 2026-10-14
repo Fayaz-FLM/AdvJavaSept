@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\JFS-June2026\AdvJavaWorkspace\SpringJDBCNoXML"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -43,11 +44,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="spring.orm"/>
 			<item value="com.spring"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringORM"/>
 			<item value="SpringJDBC"/>
 			<item value="SpringContext"/>
 		</list>
