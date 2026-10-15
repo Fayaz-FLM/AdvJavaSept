@@ -14,6 +14,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -25,10 +26,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.mvc.SpringMVC"/>
+			<item value="com.hib.HibOrm"/>
 		</list>
 		<list key="groupId">
+			<item value="com.mvc"/>
+			<item value="com.hib"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringMVC"/>
+			<item value="HibOrm"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -44,15 +51,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="spring.orm"/>
-			<item value="com.spring"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="SpringORM"/>
-			<item value="SpringJDBC"/>
-			<item value="SpringContext"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
