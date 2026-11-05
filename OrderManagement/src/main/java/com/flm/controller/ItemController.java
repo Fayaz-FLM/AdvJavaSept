@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.flm.dto.ItemRequestDTO;
@@ -47,6 +48,26 @@ public class ItemController {
 	@DeleteMapping("/delete/{id}")
 	public void deleteItemById(@PathVariable long id) {
 		itemService.deleteItemById(id);
+	}
+	
+	@GetMapping("/namestartwith")
+	public List<ItemResponseDTO> getItemStartWith(@RequestParam String itemName) {
+		return itemService.getItemStartWith(itemName);
+	}
+	
+	@GetMapping("/namecontain")
+	public List<ItemResponseDTO> getItemNameContainWith(@RequestParam String itemName) {
+		return itemService.getItemNameContainWith(itemName);
+	}
+	
+	@GetMapping("/rating/{rating}")
+	public List<ItemResponseDTO> get(@PathVariable double rating) {
+		return itemService.getRatingGreaterThan(rating);
+	}
+	
+	@GetMapping("/price-range")
+	public List<ItemResponseDTO> get(@RequestParam double minPrice, @RequestParam double maxPrice) {
+		return itemService.getItemsPriceBtw(minPrice, maxPrice);
 	}
 
 }
