@@ -63,17 +63,14 @@ public class ItemServiceImpl implements ItemService{
 	public List<ItemResponseDTO> getAllItems() {
 		
 		List<Item> list = itemRepository.findAll();
-		
 		List<ItemResponseDTO> items = new ArrayList<ItemResponseDTO>();
 		
-		for(Item item : list) {
-			
-			ItemResponseDTO itemResponseDTO = new ItemResponseDTO();
-			
-			BeanUtils.copyProperties(item, itemResponseDTO);
-			
-			items.add(itemResponseDTO);
-		}
+		list.forEach(item -> {
+		    ItemResponseDTO itemResponseDTO = new ItemResponseDTO();
+		    BeanUtils.copyProperties(item, itemResponseDTO);
+		    items.add(itemResponseDTO);
+		});
+
 		return items;
 	}
 
@@ -98,4 +95,61 @@ public class ItemServiceImpl implements ItemService{
 		itemRepository.deleteById(id);
 	}
 
+	@Override
+	public List<ItemResponseDTO> getItemStartWith(String itemName) {
+		List<Item> list = itemRepository.findByItemNameStartingWith(itemName);
+		List<ItemResponseDTO> items = new ArrayList<ItemResponseDTO>();
+		
+		list.forEach(item -> {
+		    ItemResponseDTO itemResponseDTO = new ItemResponseDTO();
+		    BeanUtils.copyProperties(item, itemResponseDTO);
+		    items.add(itemResponseDTO);
+		});
+
+		return items;
+	}
+
+	@Override
+	public List<ItemResponseDTO> getItemNameContainWith(String itemName) {
+		List<Item> list = itemRepository.findByItemNameContaining(itemName);
+		List<ItemResponseDTO> items = new ArrayList<ItemResponseDTO>();
+		
+		list.forEach(item -> {
+		    ItemResponseDTO itemResponseDTO = new ItemResponseDTO();
+		    BeanUtils.copyProperties(item, itemResponseDTO);
+		    items.add(itemResponseDTO);
+		});
+
+		return items;
+	}
+
+	@Override
+	public List<ItemResponseDTO> getRatingGreaterThan(double rating) {
+		List<Item> list = itemRepository.findByRatingGreaterThan(rating);
+		List<ItemResponseDTO> items = new ArrayList<ItemResponseDTO>();
+		
+		list.forEach(item -> {
+		    ItemResponseDTO itemResponseDTO = new ItemResponseDTO();
+		    BeanUtils.copyProperties(item, itemResponseDTO);
+		    items.add(itemResponseDTO);
+		});
+		
+		return items;
+	}
+
+	@Override
+	public List<ItemResponseDTO> getItemsPriceBtw(double minPrice, double maxPrice) {
+		List<Item> list = itemRepository.findByPriceBetween(minPrice, maxPrice);
+		List<ItemResponseDTO> items = new ArrayList<ItemResponseDTO>();
+		
+		list.forEach(item -> {
+		    ItemResponseDTO itemResponseDTO = new ItemResponseDTO();
+		    BeanUtils.copyProperties(item, itemResponseDTO);
+		    items.add(itemResponseDTO);
+		});
+
+		return items;
+	}
+
+	
 }
