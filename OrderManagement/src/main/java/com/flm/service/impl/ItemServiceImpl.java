@@ -2,6 +2,7 @@ package com.flm.service.impl;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -30,7 +31,7 @@ public class ItemServiceImpl implements ItemService{
 		item.setPrice(itemRequestDTO.getPrice());
 		item.setQuantity(itemRequestDTO.getQuantity());
 		item.setDiscount(itemRequestDTO.getDiscount());
-		item.setRating(0);
+		item.setRating(itemRequestDTO.getRating());
 		
 		Item savedItem = itemRepository.save(item);
 		
@@ -97,5 +98,75 @@ public class ItemServiceImpl implements ItemService{
 	public void deleteItemById(long id) {
 		itemRepository.deleteById(id);
 	}
+	
+	@Override
+	public List<ItemResponseDTO> getAllItemsStartingWithName(String itemName) {
+		
+		List<Item> itemlist = itemRepository.findByItemNameStartingWith(itemName);
+		List<ItemResponseDTO> items = new ArrayList<ItemResponseDTO>();
+		for(Item item :itemlist) {
+			ItemResponseDTO itemResponseDtoObj=new ItemResponseDTO();
+			BeanUtils.copyProperties(item, itemResponseDtoObj);
+			items.add(itemResponseDtoObj);
+		}
+		
+		return items;
+		
+	}
+	
+	@Override
+	public List<ItemResponseDTO> getAllItemsContainingName(String name){
+		List<Item> itemList=itemRepository.findByItemNameContaining(name);
+		List<ItemResponseDTO> items=new ArrayList<ItemResponseDTO>();
+		
+		for(Item item : itemList) {
+			ItemResponseDTO itemResponseDTO=new ItemResponseDTO();
+			BeanUtils.copyProperties(item, itemResponseDTO);
+			items.add(itemResponseDTO);
+		}
+		return items;
+	}
+	
+	
+	public List<ItemResponseDTO> getAllItemsByRatingGreaterThan(double rating){
+		
+		List<Item> itemList=itemRepository.findByRatingGreaterThan(rating);
+		List<ItemResponseDTO> items=new ArrayList<ItemResponseDTO>();
+		
+		for (Item item: itemList) {
+			ItemResponseDTO itemResponseDTO=new ItemResponseDTO();
+			BeanUtils.copyProperties(item, itemResponseDTO);
+			items.add(itemResponseDTO);
+		}
+		return items;
+	}
+	
+	
+	public List<ItemResponseDTO> getAllItemsByPriceInBetween(double minPrice,double MaxPrice){
+		/*List<Item> item=itemRepository.findByPriceBetween(minPrice, MaxPrice);
+		List<ItemResponseDTO> itemList=new ArrayList<ItemResponseDTO>();
+		
+		for(Item items :item) {
+			ItemResponseDTO itemResponseDTO=new ItemResponseDTO();
+			BeanUtils.copyProperties(items, itemResponseDTO);
+			itemList.add(itemResponseDTO);
+		}
+		return itemList; */
+		
+		List<Item> items=itemRepository.findByPriceBetween(minPrice, MaxPrice);
+		
+		return items.stream().map(itemObj ->{
+			ItemResponseDTO itemResponseDTO=new ItemResponseDTO();
+			BeanUtils.copyProperties(itemObj, itemResponseDTO);
+			return itemResponseDTO;
+		}).collect(Collectors.toList());
+		
+		
+		
+		
+		
+	}
+	
+	
 
 }

@@ -17,4 +17,15 @@ public interface ItemService {
 	public ItemResponseDTO updateItem(long id, UpdateItemRequestDTO itemRequestDTO);
 
 	public void deleteItemById(long id);
+	
+	public List<ItemResponseDTO> getAllItemsStartingWithName(String itemName);
+	
+	public List<ItemResponseDTO> getAllItemsContainingName(String itemName);
+	
+	
+	public List<ItemResponseDTO> getAllItemsByRatingGreaterThan(double rating);
+	
+	public List<ItemResponseDTO> getAllItemsByPriceInBetween(double minPrice,double maxPrice);
+	
+	
 }

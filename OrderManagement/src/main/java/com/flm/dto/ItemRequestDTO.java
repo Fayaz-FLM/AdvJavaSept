@@ -20,4 +20,6 @@ public class ItemRequestDTO {
 	private int quantity;
 	
 	private int discount;
+	
+	private Double rating;
 }

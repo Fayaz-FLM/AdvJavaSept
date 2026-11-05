@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.flm.dto.ItemRequestDTO;
@@ -48,5 +49,33 @@ public class ItemController {
 	public void deleteItemById(@PathVariable long id) {
 		itemService.deleteItemById(id);
 	}
-
+	
+	@GetMapping("/starts-with/{name}")
+	public List<ItemResponseDTO> getItemByName(@PathVariable String name){
+		return itemService.getAllItemsStartingWithName(name);
+	}
+	
+	// http://localhost:8000/items/starts-with?name=electric
+/*	@GetMapping("/starts-with")
+	public List<ItemResponseDTO> getItemByName(@RequestParam String name) {
+		return itemService.getAllItemsStartingWithName(name);
+	} 
+*/
+	@GetMapping("/contains")	
+	public List<ItemResponseDTO> getAllItemsContainingName(@RequestParam String name) {
+		return itemService.getAllItemsContainingName(name);
+		
+	}
+	
+	@GetMapping("/ratingGreaterThan/{rating}")
+	public List<ItemResponseDTO> getAllItemsByRatingGreaterThan(@PathVariable double rating) {
+		return itemService.getAllItemsByRatingGreaterThan(rating);
+	}
+	
+	@GetMapping("/itemByPriceRange")
+	public List<ItemResponseDTO> getAllItemsByPriceInBetween(@RequestParam double minPrice,double maxPrice) {
+		
+		return itemService.getAllItemsByPriceInBetween(minPrice, maxPrice);
+	}
+	
 }
